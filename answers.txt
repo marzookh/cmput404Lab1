@@ -11,3 +11,5 @@ Answer 5: Status code 301. You must visit http://www.google.com/ to get Status c
 Answer 6: 418 Status code, returned by curl -i. You get a 418 Status code and it says I'm a Teapot. Can use to test web browser support
 
 Answer 7: You can see the X, Y content under the Form Contents tags . Useful for sending content to a URL.
+
+Answer 8: https://raw.githubusercontent.com/marzookh/cmput404Lab1/main/request_version.py
