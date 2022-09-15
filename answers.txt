@@ -1,0 +1,13 @@
+Answer 1: https://github.com/marzookh
+
+Answer 2: 2.28.1
+
+Answer 3: 2.28.1
+
+Answer 4: Each time you create a virtual env, it brings everything back to stock. So when you install requests in the virtual env from scratch, it installs the latest version.
+
+Answer 5: Status code 301. You must visit http://www.google.com/ to get Status code 200
+
+Answer 6: 418 Status code, returned by curl -i. You get a 418 Status code and it says I'm a Teapot. Can use to test web browser support
+
+Answer 7: You can see the X, Y content under the Form Contents tags . Useful for sending content to a URL.
